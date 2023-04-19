@@ -3,9 +3,9 @@ SQL project
 
 Stages of Pizza Runner SQL project:
 
-I. Creating tables
-II. Data cleaning 
-III. Answering case study questions (including some database normalisation).
+1. Creating tables
+2. Data cleaning 
+3. Answering case study questions (including some database normalisation).
 
 Throughout this project I used multiple sql commands and functions, including:
 - aggregate (COUNT, SUM, AVG, MAX, MIN),
